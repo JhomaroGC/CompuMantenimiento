@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MSvNeOEHMsxWabqPGWHsK2BggeslaktoiSsD2YrRN4mSXe/86wc4geNJV72a76ppvK9vA5aW6LRo0ABy7o1yPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\CompuMantenimiento\\CompuMantenimientoV1.App\\CompuMantenimiento.App.Dominio\\CompuMantenimiento.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\empre\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\empre\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
